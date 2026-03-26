@@ -11,11 +11,34 @@ React help us to design and plan web pages like components. With a really basic 
 
 ![Calc](challenge.calculadora/img/image.png)
 
-## Requirements
-- VSCode
-- Node and NPM
-- Yarn
-- React devtools
+## In this project
+### Tools
+- VSCode ✅
+- Node and NPM ✅ `Install from site`
+- Yarn ✅
+    > Install from npm
+    > ```bash
+    > // cmd
+    > npm install -g yarn
+    > ```
+- React ✅
+    > ```
+    > // cmd
+    > npx create react-app {project-app}
+    > ```
+- React devtools `browser extension` ✅
+
+### Frameworks in this 
+- react ^19.2.4 ✅
+
+### Libs
+- Styled-components ^6.3.12 ✅
+    > This is used to create styles for Containers, Buttons, Input, and any other components you want to style.
+    >
+    > ```bash
+    > // cmd
+    > yarn add styled-components
+    > ```
 
 ## Functions
 
@@ -44,28 +67,18 @@ https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/).
 
 --- 
 
-## Styled-components
-This is used to create styles for Containers, Buttons, Input, and any other components you want to style.
-
-```bash
-yarn add styled-components
-```
-
-
----
-
-# Useful Extensions
-- Bracket Pais Color DLW
-- Color Highlight
-- Color Picker
-- Editor Config
-- ES7 + React
-- ESLint
-- Git Graph
-- GitHub Copilot Chat
-- GitHub Theme
-- Markdown Preview
-- Material Icon Theme
-- Prettier - Code Formatter
-- Todo Tree
-- Turbo Console Log
+# Useful Extensions for VSCode
+- Bracket Pais Color DLW 📦
+- Color Highlight 📦
+- Color Picker 📦
+- Editor Config 📦
+- ES7 + React 📦
+- ESLint 📦
+- Git Graph 📦
+- GitHub Copilot Chat 📦
+- GitHub Theme 📦
+- Markdown Preview 📦
+- Material Icon Theme 📦
+- Prettier - Code Formatter 📦
+- Todo Tree 📦
+- Turbo Console Log 📦
