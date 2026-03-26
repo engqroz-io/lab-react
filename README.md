@@ -13,26 +13,26 @@ React help us to design and plan web pages like components. With a really basic 
 
 ## In this project
 ### Tools
-- VSCode ✅
-- Node and NPM ✅ `Install from site`
-- Yarn ✅
+- ✅ VSCode 
+- ✅ Node and NPM  `Install from site`
+- ✅ Yarn 
     > Install from npm
     > ```bash
     > // cmd
     > npm install -g yarn
     > ```
-- React ✅
+- ✅ React 
     > ```
     > // cmd
     > npx create react-app {project-app}
     > ```
-- React devtools `browser extension` ✅
+- ✅ React devtools `browser extension` 
 
 ### Frameworks in this 
-- react ^19.2.4 ✅
+- ✅ react ^19.2.4 
 
 ### Libs
-- Styled-components ^6.3.12 ✅
+- 📦 Styled-components ^6.3.12 
     > This is used to create styles for Containers, Buttons, Input, and any other components you want to style.
     >
     > ```bash
@@ -68,17 +68,17 @@ https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/).
 --- 
 
 # Useful Extensions for VSCode
-- Bracket Pais Color DLW 📦
-- Color Highlight 📦
-- Color Picker 📦
-- Editor Config 📦
-- ES7 + React 📦
-- ESLint 📦
-- Git Graph 📦
-- GitHub Copilot Chat 📦
-- GitHub Theme 📦
-- Markdown Preview 📦
-- Material Icon Theme 📦
-- Prettier - Code Formatter 📦
-- Todo Tree 📦
-- Turbo Console Log 📦
+- ⚙️ Bracket Pais Color DLW 
+- ⚙️ Color Highlight 
+- ⚙️ Color Picker 
+- ⚙️ Editor Config 
+- ⚙️ ES7 + React 
+- ⚙️ ESLint 
+- ⚙️ Git Graph 
+- ⚙️ GitHub Copilot Chat 
+- ⚙️ GitHub Theme 
+- ⚙️ Markdown Preview 
+- ⚙️ Material Icon Theme 
+- ⚙️ Prettier - Code Formatter 
+- ⚙️ Todo Tree 
+- ⚙️ Turbo Console Log 
