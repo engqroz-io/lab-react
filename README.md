@@ -1,53 +1,43 @@
-# lab-react
-Este repositório contém todas aplicações criadas no âmbito de cursos e outros programas de treinamento focados na biblioteca React.
+# Bem-vindo ao meu Repositório de Labs! / Welcome to my Labs Repository! 🚀
 
-> *This repository contains all the applications created as part of courses and other training programs focused on the React lib.*
+Ei, pessoal! Este é o lugar onde guardo todos os meus projetos, testes e desafios que faço durante cursos, treinamentos e iniciativas pessoais. É uma bagunça organizada de aprendizado e experimentação! 😄
+
+> Hey, folks! This is the place where I keep all my projects, tests and challenges I do during courses, trainings and personal initiatives. It's an organized mess of learning and experimentation! 😄
+
+Aqui você encontra desde apps em React até projetos em C# e .NET, passando por padrões de design e MVC. Cada pasta é um mundo diferente, cheio de código e descobertas.
+
+> Here you find from React apps to C# and .NET projects, going through design patterns and MVC. Each folder is a different world, full of code and discoveries.
+
+## 📂 Projetos Disponíveis
+
+> ## 📂 Available Projects
+
+- **[lab-challenge.calculadora](lab-challenge.calculadora/)**: Uma calculadora bonita em React. `A beautiful calculator in React.`
+- **[lab-design-patterns-with-games](lab-design-patterns-with-games/)**: Padrões de design com temas de jogos em C#. `Design patterns with game themes in C#.`
+- **[lab-first-proj](lab-first-proj/)**: Meu primeiro projeto React, uma lista de usuários. `My first React project, a user list.`
+- **[lab-gitfind](lab-gitfind/)**: App para buscar perfis no GitHub. `App to search GitHub profiles.`
+- **[lab-oop](lab-oop/)**: Explorando OOP com conta bancária em C#. `Exploring OOP with bank account in C#.`
+- **[lab-projetomvc](lab-projetomvc/)**: Agenda de contatos em ASP.NET MVC. `Contact agenda in ASP.NET MVC.`
+
+Cada um tem seu README com detalhes das stacks e status. Divirta-se explorando!
+
+> Each one has its README with details of stacks and status. Have fun exploring!
 
 ---
 
-# Aplicações / *`Aplications`*
+# Ferramentas Gerais que Uso / _`General Tools I Use`_
 
-* [first-proj](first-proj/README.md)
-* [challenge.calculadora](challenge.calculadora/README.md)
-* [gitfind](gitfind/README.md)
-
----
-
-# Ferramentas / *`Tools`*
 - ✅ VSCode
-- ✅ Node and NPM Install from site
+- ✅ Node and NPM
 - ✅ Yarn
+- ✅ .NET SDK
+- ✅ Git
 
-    > Install from npm
-    > 
-    > ``` cmd
-    > npm install -g yarn
-    > ```
+E várias extensões no VSCode para facilitar a vida!
 
-- ✅ React
-
-    ```cmd
-    npx create react-app {project-app}
-    ```
-
-- ✅ React devtools browser extension
-
-# Libs
-- ✅ react ^19.2.4
-- 📦 styled-components ^6.3.12
-
-    > This is used to create styles for Containers, Buttons, Input, and any other > components you want to style.
-    > 
-    > ```cmd
-    > yarn add styled-components
-    > ```
-
----
-
-# Useful Extensions for VSCode
 - ⚙️ Bracket Pais Color DLW
 - ⚙️ Color Highlight
-- ⚙️ Color Picker
+- ⚙️ Color PickerracaolL
 - ⚙️ Editor Config
 - ⚙️ ES7 + React
 - ⚙️ ESLint
@@ -59,3 +49,13 @@ Este repositório contém todas aplicações criadas no âmbito de cursos e outr
 - ⚙️ Prettier - Code Formatter
 - ⚙️ Todo Tree
 - ⚙️ Turbo Console Log
+
+---
+
+# Libs Favoritas
+
+- ✅ React
+- 📦 Styled Components
+- ⚙️ Entity Framework
+
+E sigo aprendendo mais! 📚
