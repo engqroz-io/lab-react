@@ -8,9 +8,7 @@ Aqui você encontra desde apps em React até projetos em C# e .NET, passando por
 
 > Here you find from React apps to C# and .NET projects, going through design patterns and MVC. Each folder is a different world, full of code and discoveries.
 
-## 📂 Projetos Disponíveis
-
-> ## 📂 Available Projects
+## 📂 Projetos Disponíveis / Available Projects
 
 - **[lab-challenge.calculadora](lab-challenge.calculadora/)**: Uma calculadora bonita em React. `A beautiful calculator in React.`
 - **[lab-design-patterns-with-games](lab-design-patterns-with-games/)**: Padrões de design com temas de jogos em C#. `Design patterns with game themes in C#.`
